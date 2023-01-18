@@ -1,0 +1,8 @@
+name = "test_windows_CI"
+uuid = "734a6d78-a12b-4647-a2c9-914c1ebb8a86"
+authors = ["gregoirepourtier <gpourtier@icloud.com>"]
+version = "0.1.0"
+
+[deps]
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
